@@ -10,9 +10,6 @@ Hey there visitor! I’m Gabriel. I started my tech journey studying Game Develo
 
 Now I’m diving deeper into tech through my Information Systems degree. I’ve been focusing on sharpening my skills in HTML, CSS, and Java (working with IntelliJ), and I’m always looking for ways to learn more and build cool stuff.
 
-<a href = "mailto: Gsantos241103@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://linkedin.com/in/gabriel-caldas-dos-santos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 </br>
 </br>
 </br>
