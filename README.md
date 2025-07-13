@@ -1,7 +1,7 @@
 ![Snake animation](https://github.com/Clds07/Clds07/blob/output/github-contribution-grid-snake.svg)
 
 <div margin="50em">
-  🎓 Information Systems Student | 👾 Game Dev Roots | 💻 Exploring the World of Code
+  🎓 Information Systems Student | 👾 Game Dev Roots
 </div>
 
 <img margin="50em" width="300" alt="GIF" align="right" src="https://github.com/Clds07/Clds07/blob/main/Assets%20Git/215479.gif">
@@ -9,6 +9,9 @@
 Hey there visitor! I’m Gabriel. I started my tech journey studying Game Development, where I built a few minigames with Unity and got my first taste of HTML, CSS, and UI design with Figma.
 
 Now I’m diving deeper into tech through my Information Systems degree. I’ve been focusing on sharpening my skills in HTML, CSS, and Java (working with IntelliJ), and I’m always looking for ways to learn more and build cool stuff.
+
+<a href = "mailto:Gsantos241103@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/gabriel-caldas-dos-santos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </br>
 </br>
