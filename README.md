@@ -25,10 +25,8 @@ Now I’m diving deeper into it through my Information Systems degree. I’ve be
  </div>
 
 </br>
-</br>
-</br>
 
-<div margin="20em" align="center">
+<div align="center">
 <a href="https://github.com/Clds07">
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clds07&layout=compact&langs_count=7&theme=codeSTACKr"/>
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Clds07&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
