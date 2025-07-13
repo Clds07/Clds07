@@ -1,7 +1,7 @@
 ![Snake animation](https://github.com/Clds07/Clds07/blob/output/github-contribution-grid-snake.svg)
 
 <div margin="50em">
-  🎓 Information Systems Student | 👾 Game Dev Roots
+ <h3>🎓 Information Systems Student | 👾 Game Dev Roots</h3> 
 </div>
 
 <img margin="50em" width="300" alt="GIF" align="right" src="https://github.com/Clds07/Clds07/blob/main/Assets%20Git/215479.gif">
