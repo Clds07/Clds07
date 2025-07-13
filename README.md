@@ -17,7 +17,6 @@ Now I’m diving deeper into it through my Information Systems degree. I’ve be
 </br>
 </br>
 </br>
-</br>
 
 <div align="center">
 
